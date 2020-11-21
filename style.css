@@ -564,7 +564,7 @@ img {
     height: 60vh;
     background: url(img/m3.jpg);
     background-size: cover;
-    background-attachment: fixed;
+    background-position: bottom;
 }
 
 #footer {
