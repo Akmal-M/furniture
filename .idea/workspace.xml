@@ -21,8 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="28357a9e-8bbc-46a6-af36-5f8a8cd19316" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/m.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/m.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/m3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/m3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/home.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +52,13 @@
       <option name="presentableId" value="Default" />
       <updated>1605833982144</updated>
       <workItem from="1605833983471" duration="6763000" />
-      <workItem from="1605927389970" duration="2698000" />
+      <workItem from="1605927389970" duration="3697000" />
+      <workItem from="1605933939757" duration="16000" />
+      <workItem from="1605934572821" duration="135000" />
+      <workItem from="1610250456287" duration="403000" />
+      <workItem from="1610259377807" duration="515000" />
+      <workItem from="1610434083725" duration="354000" />
+      <workItem from="1610434464050" duration="510000" />
     </task>
     <servers />
   </component>
@@ -70,5 +75,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

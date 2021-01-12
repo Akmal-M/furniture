@@ -162,7 +162,7 @@ img {
 #sec2 .left-side p {
     font-size: 22px;
     color: var(--textColor);
-    padding: 0 25px 0 25px;
+    padding: 0 50px 0 50px;
 }
 
 
@@ -191,13 +191,8 @@ img {
 
 
 
-.text {
-    margin:0 25px;
-}
-
 .hidden {
     display: none;
-
 }
 
 
@@ -368,9 +363,8 @@ img {
 
 #footer {
     display: grid;
-    /* grid-template-columns: repeat(3, 1fr); */
     grid-template-areas: "follow location sign-up";
-    background-color: #999;
+    background-color: #bbbbbb;
     margin: auto;
     text-align: center;
 }
@@ -387,25 +381,12 @@ img {
     color: var(--mainColor);
 }
 
-#footer
+#footer,
 .follow,
 .location,
 .sign-up {
-    margin: 0 auto;
-    margin-bottom: 50px;
+    padding-bottom: 20px;
 }
-
-/* .follow {
-    grid-column: 1/3;
-}
-
-.location {
-    grid-column: 2/3;
-}
-
-.sign-up {
-    grid-column: 3/3;
-} */
 
 .location p {
     color: var(--mainColor);
@@ -478,12 +459,11 @@ img {
      font-size: 15px;
   }
 
-  
+
 #sec1 {
     height: 100vh;
     background: url(img/m.jpg);
     background-size: cover;
-    background-attachment: fixed;
 }
 
 #sec1 h1 {
@@ -564,7 +544,7 @@ img {
     height: 60vh;
     background: url(img/m3.jpg);
     background-size: cover;
-    background-position: bottom;
+    background-attachment: fixed;
 }
 
 #footer {
